@@ -1,0 +1,212 @@
+@charset "UTF-8";
+@font-face {
+ font-family:et-book;
+ src:url(et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot);
+ src:url(et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix) format("embedded-opentype"),
+ url(et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff) format("woff"),
+ url(et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf) format("truetype"),
+ url(et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf) format("svg");
+ font-weight:400;
+ font-style:normal;
+ font-display:swap
+}
+@font-face {
+ font-family:et-book;
+ src:url(et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot);
+ src:url(et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot?#iefix) format("embedded-opentype"),
+ url(et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff) format("woff"),
+ url(et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf) format("truetype"),
+ url(et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg#etbookromanosf) format("svg");
+ font-weight:400;
+ font-style:italic;
+ font-display:swap
+}
+@font-face {
+ font-family:et-book;
+ src:url(et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot);
+ src:url(et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix) format("embedded-opentype"),
+ url(et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff) format("woff"),
+ url(et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf) format("truetype"),
+ url(et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf) format("svg");
+ font-weight:700;
+ font-style:normal;
+ font-display:swap
+}
+@font-face {
+ font-family:et-book-roman-old-style;
+ src:url(et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot);
+ src:url(et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot?#iefix) format("embedded-opentype"),
+ url(et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.woff) format("woff"),
+ url(et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.ttf) format("truetype"),
+ url(et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg#etbookromanosf) format("svg");
+ font-weight:400;
+ font-style:normal;
+ font-display:swap
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+ :before,
+ :after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #F0F1F3;
+  padding: 2%;
+}
+
+body {
+  font-weight: medium;
+  font-size: 16px;
+  line-height: 1.4;
+  font-family:et-book,Palatino,"Palatino Linotype","Palatino LT STD","Book Antiqua",Georgia,serif;
+  color: #242424;
+  max-width: 800px;
+  margin: 5% ;
+  margin-top: 0;
+}
+
+section {
+  background: #fff;
+  margin-bottom: 1%;
+  position: relative;
+  padding: 6% 8%;
+}
+
+hr {
+  color: #ddd;
+  height: 1px;
+  margin: 1em 0;
+  border-top: solid 1px #ddd;
+  border-bottom: none;
+  border-left: 0;
+  border-right: 0;
+}
+
+h1, h2, h3,
+p > strong, .paper strong, td a, td a:hover, td a:focus {
+  color: #98694F
+}
+
+ul.session {
+  margin-top: 0.3em;
+}
+
+.paper-links {
+  margin-top: .3em;
+  margin-bottom: .8em;
+}
+
+.button a {
+  text-decoration: none;
+  border: 1px #98694F solid;
+  margin-right: 0.5em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+  border-radius: 0.2rem;
+  font-size: 0.92em;
+  color: #98694F;
+}
+
+.button:hover a, .button:focus a {
+  border: 1px #98694F solid;
+  background: #98694F;
+  color: #fff;
+  transition-property: background;
+  transition-duration: .2s;
+  text-decoration: none;
+}
+
+.subtitle {
+  margin-top: 0;
+  color: #777;
+}
+
+h1, h2, h3 {
+  margin-bottom: 0;
+}
+
+a, a:focus, a:hover {
+    color: rgb(0,0,0,.8);
+    text-decoration: none;
+    border-bottom: #bbb .08em dotted;
+}
+
+a:focus, a:hover {
+    background: #fbf3f3;
+    transition-property: background;
+    transition-duration: .2s;
+}
+
+table {
+  margin: auto;
+}
+
+footer {
+  color: #aaa;
+}
+footer a, footer a:hover, footer a:focus {
+  color: #aaa;
+}
+
+header img.logo {
+    float: right;
+    height: 5em;
+    margin-right: 1em;
+    margin-left: 1em;
+}
+
+.authors {
+  font-weight: 400;
+  font-size: 0.9em;
+  color: #777;
+}
+
+.program li {
+  margin-bottom: 0.5em;
+}
+
+@media screen and (min-width: 800px) {
+  .committee {
+    display: flex;
+    flex: auto;
+  }
+  .committee .organization {
+    margin-left: 5em;
+  }
+}
+
+/*************************************************
+ *  Tables
+ **************************************************/
+
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  font-size: 0.93rem;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 3px;
+}
+
+thead {
+  border-top: 1px solid #ddd;
+}
+
+/* Table Striped */
+/*table > tbody > tr:nth-child(odd) > td,*/
+/*table > tbody > tr:nth-child(odd) > th {*/
+  /*background-color: #e0d2ca;*/
+/*}*/

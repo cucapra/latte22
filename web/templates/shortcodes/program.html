@@ -1,0 +1,45 @@
+<div class="program">
+
+{% set data = load_data(path="content/accepted.csv", format="csv") %}
+
+{% set sessions = data.records | map(attribute="5") | unique | sort %}
+
+{% for session in sessions %}
+<h3 id="{{ session | slugify}}">{{ session }}</h3>
+<ul class="session">
+{% for record in data.records | filter(attribute="5", value=session) %}
+<li>
+  <div class="paper-info">
+  <div class="paper">
+  <a href="{{ get_url(path="paper/" ~ record[0] ~ ".pdf") }}">
+  <strong>{{ record[1] }}</strong>
+  </a>
+  </div>
+  <div class="authors">
+  {{ record[2] }}
+  </div>
+  </div>
+
+  <div class="paper-links">
+  <!-- Link to github discussion -->
+  {% if record[3] %}
+  <span class="gh-thread button">
+  <a href="{{ record[3] }}">Thread</a>
+  </span>
+  {% endif %}
+
+  <!-- Link to github discussion -->
+  {% if record[4] %}
+  <span class="yt button">
+  <a href="{{ record[4] }}">Talk</a>
+  </span>
+  {% endif %}
+
+  </div>
+</li>
+{% endfor %}
+</ul>
+{% endfor %}
+
+
+</div>
