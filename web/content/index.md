@@ -9,11 +9,12 @@ of previously presented papers, take a look at [LATTE '21][latte-21].
 
 Submit your **2-page position paper** via [HotCRP][]. Important dates:
 
-- Paper submission:  **TBD** (tentatively, mid January)
-- Author Notification: **TBD**
+- [HotCRP][] opens: **January 18, 2022**
+- Paper submission:  **January 25, 2022**
+- Author Notification: **February 8, 2022**
 - Workshop: **March 1, 2022**
 
-**Note**: The audience attending LATTE is already very specialized and does
+**Note.** The audience attending LATTE is already very specialized and does
 not require motivating specialized hardware accelerators. We strongly encourage
 authors to keep their introduction sections very focused and short and utilize
 the space for more detailed technical content.
@@ -48,13 +49,22 @@ The workshop will allocate short time slots to the papers, each paired with a di
 
 Position paper submissions will undergo peer review by a program committee of interdisciplinary experts working on both high-level (languages, compilers, drivers) and low-level (circuit optimization, interconnect design) problems in the area.
 
-Papers should use the two-column [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
+**Formatting.** Papers should use the two-column [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
+We provide [a latex example][format-example] that contains the correct formatting.
 
 Paper submission will is via [HotCRP][].
 The accepted papers will not be published in a proceeding—PDFs will instead appear on the workshop's website.
+
+## Organizing Committee
+
+- [Rachit Nigam](https://rachitnigam.com)
+- [Adrian Sampson](https://adriansampson.net)
+- [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/)
+- [Stephen Neuendorffer](https://sites.google.com/site/sneuendorffer/)
 
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
 [hotcrp]: https://latte.cs.cornell.edu/
 [sigplanconf]: https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart.pdf
 [asplos-22]: https://asplos-conference.org/
 [latte-21]: https://capra.cs.cornell.edu/latte21/
+[format-example]: https://github.com/cucapra/latte22/tree/main/camera-ready
