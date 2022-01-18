@@ -5,6 +5,9 @@ template = "page.html"
 LATTE '22 is a workshop co-located with [ASPLOS '22][asplos-22]. For examples
 of previously presented papers, take a look at [LATTE '21][latte-21].
 
+### News
+- [Chris Leary](https://mobile.twitter.com/cdleary) will be giving a keynote at LATTE '22.
+
 ## Important Stuff
 
 Submit your **2-page position paper** via [HotCRP][]. Important dates:
@@ -55,12 +58,47 @@ We provide [a latex example][format-example] that contains the correct formattin
 Paper submission will is via [HotCRP][].
 The accepted papers will not be published in a proceeding—PDFs will instead appear on the workshop's website.
 
-## Organizing Committee
+
+<div class="committee">
+
+<div class="pc">
+<h2> Program Committee </h2>
+
+- Rachit Nigam, Cornell University
+- Adrian Sampson, Cornell University
+- Ang Li, Princeton
+- Fabian Schuiki, SiFive
+- Gus Smith, University of Washington
+- Hanchen Ye, UIUC
+- Jianyi Cheng, Imperial College London
+- Jie Wang, Amazon
+- Jin Yang, Intel
+- John Demme, Microsoft
+- Jonathan Balkind, UC Santa Barbara
+- Jose Renau, UC Santa Cruz
+- Katherine Lim, University of Washington
+- Kevin Laeufer, UC Berkeley
+- Kiran Kintali, MathWorks
+- Leonard Truong, Stanford
+- Licheng Guo, UCLA
+- Ross Daly, Stanford
+- Shail Dave, Arizona State University
+- Stephen Neuendorffer, Xilinx
+- Tobias Grosser, University of Edinburgh
+- Zhiru Zhang, Cornell
+
+</div>
+
+<div class="organization">
+<h2> Organizing Committee </h2>
 
 - [Rachit Nigam](https://rachitnigam.com)
 - [Adrian Sampson](https://adriansampson.net)
 - [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/)
 - [Stephen Neuendorffer](https://sites.google.com/site/sneuendorffer/)
+
+</div>
+</div>
 
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
 [hotcrp]: https://latte.cs.cornell.edu/
