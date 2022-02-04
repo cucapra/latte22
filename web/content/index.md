@@ -5,7 +5,10 @@ template = "page.html"
 LATTE '22 is a workshop co-located with [ASPLOS '22][asplos-22]. For examples
 of previously presented papers, take a look at [LATTE '21][latte-21].
 
+> LATTE is going to offer a hybrid attendance model. Participants will be able to attend either remotely or in-person. Table and plenary discussions will both use hybrid modality. Like the previous year, we invite participants to make use of GitHub discussion threads to ask questions from authors. Speakers of accepted papers will be provided with details on talks after acceptance.
+
 ### News
+- Andrew Ling, director of software engineer and machine learning at [Groq][groq], will give a keynote at LATTE '22.
 - [Chris Leary](https://mobile.twitter.com/cdleary) will be giving a keynote at LATTE '22.
 
 ## Important Stuff
@@ -106,3 +109,4 @@ The accepted papers will not be published in a proceeding—PDFs will instead ap
 [asplos-22]: https://asplos-conference.org/
 [latte-21]: https://capra.cs.cornell.edu/latte21/
 [format-example]: https://github.com/cucapra/latte22/tree/main/camera-ready
+[groq]: https://groq.com/

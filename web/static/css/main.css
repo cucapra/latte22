@@ -210,3 +210,10 @@ thead {
 /*table > tbody > tr:nth-child(odd) > th {*/
   /*background-color: #e0d2ca;*/
 /*}*/
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 8px solid #c1a595;
+  margin: 1.5em 0px;
+  padding: 0.5em 20px;
+}
