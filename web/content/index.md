@@ -7,7 +7,7 @@ of previously presented papers, take a look at [LATTE '21][latte-21].
 
 > LATTE is going to offer a hybrid attendance model. Participants will be able to attend either remotely or in-person. Table and plenary discussions will both use hybrid modality. Like the previous year, we invite participants to make use of GitHub discussion threads to ask questions from authors. Speakers of accepted papers will be provided with details on talks after acceptance.
 
-### News
+## News
 - Andrew Ling, director of software engineer and machine learning at [Groq][groq], will give a keynote at LATTE '22.
 - [Chris Leary](https://mobile.twitter.com/cdleary) will be giving a keynote at LATTE '22.
 
