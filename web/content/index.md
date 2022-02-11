@@ -7,6 +7,12 @@ of previously presented papers, take a look at [LATTE '21][latte-21].
 
 > LATTE is going to offer a hybrid attendance model. Participants will be able to attend either remotely or in-person. Table and plenary discussions will both use hybrid modality. Like the previous year, we invite participants to make use of GitHub discussion threads to ask questions from authors. Speakers of accepted papers will be provided with details on talks after acceptance.
 
+## Registration
+
+To attend LATTE please use this [Whova link][whova] to register:
+- For in-person attendance: Register for the "Tuesday Workshops". This will only give you access to the Tuesday workshops. You can additionally register for ASPLOS from the same page.
+- For remote attendace: Register for the "ASPLOS remote" option which will give you access to the entire ASPLOS program.
+
 ## News
 - Andrew Ling, director of software engineer and machine learning at [Groq][groq], will give a keynote at LATTE '22.
 - [Chris Leary](https://mobile.twitter.com/cdleary) will be giving a keynote at LATTE '22.
@@ -110,3 +116,4 @@ The accepted papers will not be published in a proceeding—PDFs will instead ap
 [latte-21]: https://capra.cs.cornell.edu/latte21/
 [format-example]: https://github.com/cucapra/latte22/tree/main/camera-ready
 [groq]: https://groq.com/
+[whova]: https://whova.com/portal/registration/aicas_202202/
