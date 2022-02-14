@@ -23,17 +23,17 @@ To attend LATTE please use this [Whova link][whova] to register:
 
 | Time (CET) | Event |
 |-------------|-------|
-| 10--10:15am | Opening & Introductions |
-| 10:15--11am | [Session 1](#session-1) |
-| 11--11:30am | Coffee Break |
-| 11:30am--12:00pm | [Session 2](#session-2) |
-| 12:00--1:30pm | Lunch (on your own) |
-| 1:30--2:30pm | Discussion |
-| 2:30--3pm | [Session 3](#session-3) |
-| 3--4pm | Keynote: Andrew Ling (Groq) |
-| 4--4:30pm | Coffee Break |
-| 4:30--5pm | [Session 4](#session-4) |
-| 5--6pm | Keynote: Chris Leary (Google) |
+| 10–10:15am | Opening & Introductions |
+| 10:15–11am | [Session 1](#session-1) |
+| 11–11:30am | Coffee Break |
+| 11:30am–12:00pm | [Session 2](#session-2) |
+| 12:00–1:30pm | Lunch (on your own) |
+| 1:30–2:30pm | Discussion |
+| 2:30–3pm | [Session 3](#session-3) |
+| 3–4pm | Keynote: Andrew Ling (Groq) |
+| 4–4:30pm | Coffee Break |
+| 4:30–5pm | [Session 4](#session-4) |
+| 5–6pm | Keynote: Chris Leary (Google) |
 
 
 ## Papers
