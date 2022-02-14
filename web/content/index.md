@@ -15,6 +15,7 @@ To attend LATTE please use this [Whova link][whova] to register:
 
 ## News
 
+- [Registration for ASPLOS][asplos-reg] (both in person and virtual) is available now.
 - Andrew Ling, director of software engineer and machine learning at [Groq][groq], will give a keynote at LATTE '22.
 - [Chris Leary](https://mobile.twitter.com/cdleary) will be giving a keynote at LATTE '22.
 
@@ -67,3 +68,4 @@ To attend LATTE please use this [Whova link][whova] to register:
 [format-example]: https://github.com/cucapra/latte22/tree/main/camera-ready
 [groq]: https://groq.com/
 [whova]: https://whova.com/portal/registration/aicas_202202/
+[asplos-reg]: https://whova.com/portal/registration/aicas_202202/
