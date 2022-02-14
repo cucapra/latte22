@@ -19,6 +19,14 @@ To attend LATTE please use this [Whova link][whova] to register:
 - Andrew Ling, director of software engineer and machine learning at [Groq][groq], will give a keynote at LATTE '22.
 - [Chris Leary](https://mobile.twitter.com/cdleary) will be giving a keynote at LATTE '22.
 
+## *Draft* Program
+
+TK
+
+## Papers
+
+{{ program() }}
+
 <div class="committee">
 
 <div class="pc">

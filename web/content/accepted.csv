@@ -1,0 +1,11 @@
+ID,Title,Authors,Thread,Talk,Session
+1,A Position on Program Synthesis for Processor Development,"Zachary D. Sisco, Jonathan Balkind, Timothy Sherwood, Ben Hardekopf (UC Santa Barbara)",TK,TK,Session 1
+2,Refinement Types for Hardware,"Robin Webbers, Klaus v. Gleissenthall (Vrije Universiteit Amsterdam)",TK,TK,Session 1
+3,HLS from PyTorch to System Verilog with MLIR and CIRCT,"Mike Urbach (Alloy Computing, LLC); Morten B. Petersen (EPFL)",TK,TK,Session 2
+4,"Optimising" High-level Synthesis in CIRCT,"Julian Oppermann, Melanie Reuter-Oppermann, Andreas Koch (Technical University of Darmstadt); Oliver Sinnen (University of Auckland)",TK,TK,Session 2
+5,HPVM2FPGA: Enabling True Hardware-Agnostic FPGA Programming (invited paper),"Adel Ejjeh, Leon Medvinsky, Aaron Councilman, Hemang Nehra, Suraj Sharma, Vikram Adve (University of Illinois at Urbana-Champaign), Luigi Nardi (Lund University and Stanford University), Eriko Nurvitadhi (Intel), Rob A Rutenbar (University of Pittsburgh)",TK,TK,Session 2
+6,TBA (invited paper),"Thierry Tambe (Harvard)",TK,TK,Session 3
+7,Design Space Description Language for Automated and Comprehensive Exploration of Next-Gen Hardware Accelerators,"Shail Dave, Aviral Shrivastava (Arizona State University)",TK,TK,Session 3
+8,TBA (invited paper),"Radhika Ghosal, Sabrina Neuman (Harvard)",TK,TK,Session 4
+9,High-level Synthesis using the Julia Language,"Benjamin Biggs (Imperial College London); Ian McInerney (The University of Manchester); Eric C. Kerrigan, George A. Constantinides (Imperial College London)",TK,TK,Session 4
+
