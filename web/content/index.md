@@ -4,6 +4,7 @@ template = "page.html"
 
 LATTE '22 is a workshop co-located with [ASPLOS '22][asplos-22]. For examples
 of previously presented papers, take a look at [LATTE '21][latte-21].
+LATTE will take place on **March 1st, 2022**.
 
 > LATTE is going to offer a hybrid attendance model. Participants will be able to attend either remotely or in-person. Table and plenary discussions will both use hybrid modality. Like the previous year, we invite participants to make use of GitHub discussion threads to ask questions from authors. Speakers of accepted papers will be provided with details on talks after acceptance.
 
