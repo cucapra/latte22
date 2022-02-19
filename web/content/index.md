@@ -31,7 +31,7 @@ To attend LATTE please use this [Whova link][whova] to register:
 | 12:00–1:30pm | Lunch (on your own) |
 | 1:30–2:30pm | Discussion |
 | 2:30–3pm | [Session 3](#session-3) |
-| 3–4pm | Keynote: Andrew Ling (Groq) |
+| 3–4pm | Keynote: [Andrew Ling (Groq)](#andrew-ling-groq) |
 | 4–4:30pm | Coffee Break |
 | 4:30–5pm | [Session 4](#session-4) |
 | 5–6pm | Keynote: Chris Leary (Google) |
@@ -40,6 +40,18 @@ To attend LATTE please use this [Whova link][whova] to register:
 ## Papers
 
 {{ program() }}
+
+## Keynotes
+
+### Andrew Ling (Groq)
+
+**A Kerneless Approach to Deep Learning Compilers**
+
+With the recent decline of Moore’s Law, modern day architectures have exploded in order to keep up with the compute demands of today. With that, compiler flows and techniques have been at the forefront to support these new architectures.  The vast majority of compilers lean on customized flows and kernels to enable high-performance. This involves investing billions of dollars to create a robust kernel library where kernel developers create hand scheduled and vectorized “inner loops” that leverage the hardware primitives effectively.  Nvidia and Intel have the lead in this space and have invested thousands of engineering years to create a kernel library that will be difficult to match. By forcing the industry to stick with a kernel first approach, we are inadvertently limiting the amount of customization and breadth of functionality that could otherwise be achieved, and preventing innovation.
+
+In contrast, the Groq architecture was designed with a software first mindset to avoid the need for manual kernel development and provide a fully automated compilation flow to map HPC and Neural Network models down to the architectural level. This is a strong divergence from the conventional approach and will open up opportunities for further innovation in the machine learning and scientific computing space.
+
+We are able to achieve this level of automation by simplifying the primitive set on the Groq architecture and avoiding traditional approaches to vectorization, which often require “rediscovering” parallelization opportunities in the program and aligning those opportunities with the hardware structure.  Advantageously, we are able to decompose directly to specific hardware blocks on the architecture which yields extremely high efficiency because of the regularity of the architecture. Efficiency is a direct result of the design approach that Groq took by using the compiler to guide the architecture design. This software first approach to architecture design will be critical for the industry to move at a faster pace as compute demands continue to grow exponentially in the foreseeable future.
 
 <div class="committee">
 
