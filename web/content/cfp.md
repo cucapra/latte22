@@ -16,6 +16,12 @@ not require motivating specialized hardware accelerators. We strongly encourage
 authors to keep their introduction sections very focused and short and utilize
 the space for more detailed technical content.
 
+## News
+
+- [Registration for ASPLOS][asplos-reg] (both in person and virtual) is available now.
+- Andrew Ling, director of software engineer and machine learning at [Groq][groq], will give a keynote at LATTE '22.
+- [Chris Leary](https://mobile.twitter.com/cdleary) will be giving a keynote at LATTE '22.
+
 ## Call for Participation
 
 **Motivation.**
