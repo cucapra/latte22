@@ -19,7 +19,8 @@ To attend LATTE please use this [Whova link][whova] to register:
 
 | Time (CET) | Event |
 |-------------|-------|
-| 10–10:15am | Opening & Introductions |
+| 9–9:15am | Opening & Introductions |
+| 9:15–10:15am | Keynote: [Chris Leary (Google)](#chris-leary-google-x-istentialism-supercomputers-silicon-atoms-and-the-science-between) |
 | 10:15–11am | [Session 1](#session-1) |
 | 11–11:30am | Coffee Break |
 | 11:30am–12:00pm | [Session 2](#session-2) |
@@ -29,7 +30,6 @@ To attend LATTE please use this [Whova link][whova] to register:
 | 3–4pm | Keynote: [Andrew Ling (Groq)](#andrew-ling-groq-a-kerneless-approach-to-deep-learning-compilers) |
 | 4–4:30pm | Coffee Break |
 | 4:30–5pm | [Session 4](#session-4) |
-| 5–6pm | Keynote: [Chris Leary (Google)](#chris-leary-google-x-istentialism-supercomputers-silicon-atoms-and-the-science-between) |
 
 ## Keynotes
 
