@@ -19,17 +19,17 @@ To attend LATTE please use this [Whova link][whova] to register:
 
 | Time (CET) | Event |
 |-------------|-------|
-| 9–9:15am | Opening & Introductions |
-| 9:15–10:15am | Keynote: [Chris Leary (Google)](#chris-leary-google-x-istentialism-supercomputers-silicon-atoms-and-the-science-between) |
-| 10:15–11am | [Session 1](#session-1) |
-| 11–11:30am | Coffee Break |
-| 11:30am–12:00pm | [Session 2](#session-2) |
-| 12:00–1:30pm | Lunch (on your own) |
-| 1:30–2:30pm | Discussion |
-| 2:30–3pm | [Session 3](#session-3) |
-| 3–4pm | Keynote: [Andrew Ling (Groq)](#andrew-ling-groq-a-kernel-less-approach-to-deep-learning-compilers) |
-| 4–4:30pm | Coffee Break |
-| 4:30–5pm | [Session 4](#session-4) |
+| {{time(t="9am", l="9–9:15am")}} | Opening & Introductions |
+| {{time(t="9:15am", l="9:15–10:15am")}} | Keynote: [Chris Leary (Google)](#chris-leary-google-x-istentialism-supercomputers-silicon-atoms-and-the-science-between) |
+| {{time(t="10:15am", l="10:15–11am")}} | [Session 1](#session-1) |
+| {{time(t="11am", l="11–11:30am")}} | Coffee Break |
+| {{time(t="11:30am", l="11:30am–12:00pm")}} | [Session 2](#session-2) |
+| {{time(t="12pm", l="12:00–1:30pm")}} | Lunch (on your own) |
+| {{time(t="1:30pm", l="1:30–2:30pm")}} | Discussion |
+| {{time(t="2:30pm", l="2:30–3pm")}} | [Session 3](#session-3) |
+| {{time(t="3pm", l="3–4pm")}} | Keynote: [Andrew Ling (Groq)](#andrew-ling-groq-a-kernel-less-approach-to-deep-learning-compilers) |
+| {{time(t="4pm", l="4–4:30pm")}} | Coffee Break |
+| {{time(t="4:30pm", l="4:30–5pm")}} | [Session 4](#session-4) |
 
 ## Keynotes
 
