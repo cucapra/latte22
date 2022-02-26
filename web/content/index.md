@@ -27,7 +27,7 @@ To attend LATTE please use this [Whova link][whova] to register:
 | 12:00–1:30pm | Lunch (on your own) |
 | 1:30–2:30pm | Discussion |
 | 2:30–3pm | [Session 3](#session-3) |
-| 3–4pm | Keynote: [Andrew Ling (Groq)](#andrew-ling-groq-a-kerneless-approach-to-deep-learning-compilers) |
+| 3–4pm | Keynote: [Andrew Ling (Groq)](#andrew-ling-groq-a-kernel-less-approach-to-deep-learning-compilers) |
 | 4–4:30pm | Coffee Break |
 | 4:30–5pm | [Session 4](#session-4) |
 
