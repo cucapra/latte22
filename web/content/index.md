@@ -15,7 +15,7 @@ To attend LATTE please use this [Whova link][whova] to register:
 - For remote attendace: Register for the "ASPLOS remote" option which will give you access to the entire ASPLOS program.
 
 
-## *Draft* Program
+## Program
 
 | Time (CET) | Event |
 |-------------|-------|
