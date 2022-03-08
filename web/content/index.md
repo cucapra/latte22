@@ -35,6 +35,8 @@ To attend LATTE please use this [Whova link][whova] to register:
 
 ### Andrew Ling (Groq): A Kernel-less Approach to Deep Learning Compilers
 
+[**Recording**](https://www.youtube.com/watch?v=5Fh0VFH0EiU)
+
 With the recent decline of Moore’s Law, modern architecture derivatives have exploded in order to keep up with the compute demands of today. With that, compiler flows and techniques have been at the forefront to support these new architectures.  The vast majority of compilers lean on customized flows and kernels to enable high-performance. This involves investing billions of dollars to create a robust kernel library where kernel developers create hand scheduled and vectorized “inner loops” that leverage the hardware primitives effectively.  Nvidia and Intel have the lead in this space and have invested thousands of engineering years to create a kernel library that will be difficult to match. By forcing the industry to stick with a kernel first approach, we are inadvertently limiting the amount of customization and breadth of functionality that could otherwise be achieved, and preventing innovation.
 
 In contrast, the Groq architecture was designed with a software first mindset to avoid the need for manual kernel development and provide a fully automated compilation flow to map HPC and Neural Network models down to the architectural level. This is a strong divergence from the conventional approach and will open up opportunities for further innovation in the machine learning and scientific computing space.
@@ -42,6 +44,8 @@ In contrast, the Groq architecture was designed with a software first mindset to
 We are able to achieve this level of automation by simplifying the primitive set on the Groq architecture and avoiding traditional approaches to vectorization, which often require “rediscovering” parallelization opportunities in the program and aligning those opportunities with the hardware structure.  Advantageously, we are able to decompose directly to specific hardware blocks on the architecture which yields extremely high efficiency because of the regularity of the architecture. Efficiency is a direct result of the design approach that Groq took by using the compiler to guide the architecture design. This software first approach to architecture design will be critical for the industry to move at a faster pace as compute demands continue to grow exponentially in the foreseeable future.
 
 ### Chris Leary (Google): X-istentialism: Supercomputers, Silicon Atoms, and the Science Between!
+
+[**Recording**](https://www.youtube.com/watch?v=9s1hLc_BoNw)
 
 In this talk we discuss the increasing development and adoption of accelerators from the vantage point of a wide-eyed hyperscaler accelerator developer. This talk humbly proposes that an era of "Radical Co-design" or "Co-design 2.0" is upon us, as indicated by current observations and trends. To this end, we recap a decade of accelerator development work across XLA (cluster-capable ML compiler), JAX (staging/metaprogramming), and XLS (high level synthesis toolchain), with acceleration targets now identified at datacenter scale (i.e. Google Wide Profiling / "datacenter tax" workloads), and programs collaborating on open RTL-level tooling and open ASIC process nodes (Category X).
 
